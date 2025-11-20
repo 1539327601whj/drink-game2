@@ -1,0 +1,5 @@
+{
+  "name": "赛博酒局 - AI Drinking Party",
+  "description": "一款现代化的 AI 驱动社交饮酒游戏。包含数字国王杯卡牌和由 Gemini 驱动的“派对主持人”，可生成独特的、情境感知的挑战。",
+  "requestFramePermissions": []
+}
