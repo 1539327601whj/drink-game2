@@ -20,6 +20,9 @@
     npm run dev
     ```
     打开浏览器访问控制台显示的地址（通常是 http://localhost:5173）。
+    这里有网站可以点进去体验    https://www.goodhappy.top/
+     img width="3840" height="1916" alt="image" src="https://github.com/user-attachments/assets/a8ddff98-79f6-4aa5-ab86-40130b96e1ef" />
+
 
 ---
 
